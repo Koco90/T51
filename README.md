@@ -22,7 +22,7 @@ Open your vs code and type and run the following individually in your terminal:
 Once the above pips have been installed, you can run the jupyter notebook to view the report.
 Comments are included to explain what is being done.
 Visuals will appear after running, here's an example of what you can expect:
-(https://www.dropbox.com/s/zn2sgp1ji27fdp8/Capture.JPG?dl=0)
+![My Image](Capture.JPG)
  
 ### 3. Author
 Mariko Coelho is the author of the report.
